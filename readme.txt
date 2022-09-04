@@ -3,4 +3,3 @@ Git is free software.
 third
 stage
 q
-changes
